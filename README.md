@@ -1,5 +1,5 @@
 # BLUR NFT LISTING DISCORD BOT
-NFT listing monitor bot for Blur marketplace.
+NFT listing discord bot for Blur marketplace.
 
 ![image](https://user-images.githubusercontent.com/125624349/231341414-82c0f46e-b5ef-44d1-9c6f-4e8b9c96be76.png)
 
