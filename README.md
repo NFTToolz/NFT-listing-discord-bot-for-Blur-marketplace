@@ -7,4 +7,10 @@ See the example Azuki listings in the discord channel
 
 ![image](https://user-images.githubusercontent.com/125624349/231341471-829cd3af-261a-4f72-b362-6adfff728040.png)
 
-**Raise a ticket to get access today https://discord.gg/Yezs2VDhBV (subscription model)**
+**Raise a ticket to get access today  (subscription model)**
+
+https://discord.gg/CsGGnd7rtJ
+
+discord: mattnfttools
+
+telegram: nfttoolz
